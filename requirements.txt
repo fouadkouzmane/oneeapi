@@ -1,4 +1,0 @@
-Flask==1.1.1
-opencv-python==4.1.1.26 
-json==2.6
-imutils==0.5.3  
